@@ -160,3 +160,9 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Clase para los elementos que se pueden borrar */
+.borrar {
+    font-size: 18px;
+    cursor: pointer;
+}
