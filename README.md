@@ -7,6 +7,7 @@ Este proyecto se desarrolló como parte del primer Challenge del programa de for
 La aplicación permite:
 
 - Registrar participantes
+- Permite eliminar amigos de la lista antes de sortearlos
 - Realizar el sorteo del amigo secreto de manera aleatoria
 - Muestra el resultado de quién es el amigo secreto
 
