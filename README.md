@@ -16,3 +16,11 @@ La aplicación permite:
 - HTML
 - CSS
 - JavaScript
+
+## Screenshots
+
+![Captura 1](assets/image.png)
+
+![Captura 2](assets/image2.png)
+
+![Captura 3](assets/image3.png)
